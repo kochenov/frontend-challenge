@@ -1,6 +1,7 @@
 const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
-  publicPath: "/frontend-challenge/",
+  publicPath:
+    process.env.NODE_ENV === "production" ? "/frontend-challenge/" : "/",
   // devServer: {
   //   proxy: "https://api.thecatapi.com",
   //   //   //secure: false,

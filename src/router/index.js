@@ -4,7 +4,7 @@ import routesImport from "./routes";
 const routes = routesImport;
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory("/frontend-challenge/"),
   routes,
 });
 
