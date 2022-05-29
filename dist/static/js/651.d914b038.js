@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkcats_project"]=self["webpackChunkcats_project"]||[]).push([[651],{2651:function(n,t,r){r.r(t),r.d(t,{default:function(){return f}});var c=r(3396);const e=(0,c._)("h1",null,"Такой страницы не существует",-1),u=[e];function s(n,t,r,e,s,a){return(0,c.wg)(),(0,c.iD)("div",null,u)}var a={},l=r(89);const o=(0,l.Z)(a,[["render",s]]);var f=o}}]);
